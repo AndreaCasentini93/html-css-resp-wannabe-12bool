@@ -19,7 +19,6 @@
 /* COLUMNS */
 [class*="col-"] {
     float: left;
-    width: 100%;
 }
 
 /* MEDIA QUERIES XS */
