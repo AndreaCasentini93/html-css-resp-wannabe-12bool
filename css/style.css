@@ -1,0 +1,51 @@
+/* COMMON */
+
+
+/* ROW 1 */
+#row-1 {
+    text-align: center;
+    padding-top: 100px;
+}
+#row-1 h1 {
+    padding-bottom: 20px;
+}
+#row-1 img{
+    height: 200px;
+}
+#row-1 h3 {
+    padding: 20px 0;
+}
+#row-1 p {
+    padding: 0 20px;
+}
+
+@media screen and (min-width: 421px) and (max-width: 991px) {
+
+    #row-1 {
+        text-align: center;
+        padding-top: 100px;
+    }
+    #row-1 h1 {
+        padding-bottom: 20px;
+    }
+    #row-1 img{
+        height: 120px;
+    }
+    #row-1 h3 {
+        padding: 20px 0;
+    }
+    #row-1 p {
+        padding: 0 20px;
+    }
+
+}
+
+/* ROW 2 */
+#row-2 {
+    
+}
+
+/* ROW 3 */
+#row-3 {
+    
+}
